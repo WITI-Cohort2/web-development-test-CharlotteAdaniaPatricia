@@ -1,0 +1,32 @@
+# ADANIA CHARLOTTE PATRICIA
+
+# Define the following Terms
+a) Elements.
+These are tags used while writing HTML codes in building Web Pages.
+They consist of <,>,/, 
+
+
+b) Attributes.
+This specifies the Uniform Resourse Locator (URL) path of the Web page while creting Web pages.
+
+
+c) Selectors.
+These are tags used while styling a web page in CSS.
+they can include the back ground of a document, an image, colors, tables, heading and footers
+
+
+d) Semantic Elements.
+These are tags that are used in both Web HTML and CSS in building a Web Page.
+like when you want to creat a bullet list or numbered list, you use Semantic Elements.
+to insert the date, age and grouping of people, you use semantic Elements
+
+e) Web Accessibility.
+This is the process of creating and maintaing a Web Page to be visible to people /
+a targeted audiance including the Blind and building it with ease of access.
+How you can make you Web Page visible to people of all age brackets. 
+The young,Teenagers,Youth,the Elderly and the Blind.
+
+f) Web Server.
+These are the types of Internet access points used on a web.
+Examples can be Google Chrome, Internet Explorere, Opera Mini, Fire Fox, MicroSoft Edge.
+
